@@ -1,5 +1,5 @@
 _G.Enabled = true
---local data = readfile("nframes/owl.txt")
+--local data = readfile("nframes/frames.txt")
 local data = game:HttpGet("https://raw.githubusercontent.com/CiaranKelly64/Rate-my-Avatar-RGB-Script-test/main/frames.txt") -- prerendered amongus video
 
 function update(text)
